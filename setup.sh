@@ -1,3 +1,8 @@
+https://developer.apple.com/forums/thread/669678
+https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
+
+sudo xcode-select --install 
+
 # sudo apt update
 # sudo apt install pandoc -y
 # sudo apt install build-essential -y
