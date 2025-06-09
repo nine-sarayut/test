@@ -1,7 +1,12 @@
 https://developer.apple.com/forums/thread/669678
 https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
 
-sudo xcode-select --install 
+# sudo xcode-select --install 
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python
+brew install --cask google-chrome
+brew install --cask visual-studio-code
 
 # sudo apt update
 # sudo apt install pandoc -y
